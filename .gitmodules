@@ -4,3 +4,6 @@
 [submodule "HW2"]
 	path = HW2
 	url = https://lp250isme@github.com/lp250isme/HW2.git
+[submodule "HW3"]
+	path = HW3
+	url = https://github.com/lp250isme/HW3.git
